@@ -63,7 +63,7 @@
 - Inline
   - 인라인 블록으로 처리하고 싶은 부분을 `(백틱)으로 감싸줍니다.
 - Block
-  - `(백틱)dmf 3qjs 입력하고  ` `Enter`를 눌러 생성합니다.
+  - `(백틱)을 3번 입력하고  ``` Enter```를 눌러 생성합니다.
 
 
 
@@ -138,11 +138,17 @@ $ git push origin master
 
 - `---`, `***`, `___`을 입력하여 작성합니다.
 
-___Working Directory___
+Working Directory
 
----Staging Area---
+---
 
-***Remote Repository***
+Staging Area
+
+***
+
+Remote Repository
+
+___
 
 
 
